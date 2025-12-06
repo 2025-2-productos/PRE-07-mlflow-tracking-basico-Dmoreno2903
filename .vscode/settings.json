@@ -8,7 +8,7 @@
     "python.testing.pytestEnabled": true,
     "makefile.configureOnOpen": false,
     "[python]": {
-        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.defaultFormatter": "charliermarsh.ruff",
         "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {
             "source.organizeImports": "explicit"
